@@ -1,0 +1,7 @@
+create table STUDENT_REGISTRATION
+(name varchar2(20),age number(20),address varchar2(20),
+qul varchar2(20),mob number(20),email varchar2(20));
+
+
+INSERT INTO STUDENT_REGISTRATION VALUES
+('Deepak',25,'Gorakhpur','Btech',9540077714,'xzy');
